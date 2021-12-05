@@ -1,2 +1,3 @@
 file2
-welcome to git
+welcome to git project
+good morning

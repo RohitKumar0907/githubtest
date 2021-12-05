@@ -1,2 +1,3 @@
 file1
-today is sunday
+today im doing git
+good evening
